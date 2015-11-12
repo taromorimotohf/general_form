@@ -1,0 +1,1 @@
+    <?php    /**    * 設定ファイル    */    $remail = 1; // 1 送る。　0 送らない。    $mailto = $_SESSION['mail'];//自動返信先    $mailto02 = 'taro_morimoto@hot-factory.jp';//管理者メールアドレス    $subject  = "お問い合わせがありました"; //自動返信タイトル    $subject02  = "【管理者】お問い合わせ"; //管理者自動返信タイトル      $mailfrom = "sender@test.com";       $fromname = "◎◎株式会社";  ?>

@@ -1,3 +1,3 @@
-# general_form
+# [general_form](https://github.com/taromorimotohf/general_form/)
 
-h1 GENERAL FORM 
+## GENERAL FORM 
